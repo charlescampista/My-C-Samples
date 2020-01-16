@@ -1,0 +1,10 @@
+C:\Users\CHARLES\Documents\Work\Projects\Dev\MyC#Samples\CharlesCSHARPSamples\QuickStarter\bin\Debug\QuickStarter.exe.config
+C:\Users\CHARLES\Documents\Work\Projects\Dev\MyC#Samples\CharlesCSHARPSamples\QuickStarter\bin\Debug\QuickStarter.exe
+C:\Users\CHARLES\Documents\Work\Projects\Dev\MyC#Samples\CharlesCSHARPSamples\QuickStarter\bin\Debug\QuickStarter.pdb
+C:\Users\CHARLES\Documents\Work\Projects\Dev\MyC#Samples\CharlesCSHARPSamples\QuickStarter\obj\Debug\QuickStarter.csprojAssemblyReference.cache
+C:\Users\CHARLES\Documents\Work\Projects\Dev\MyC#Samples\CharlesCSHARPSamples\QuickStarter\obj\Debug\QuickStarter.Form1.resources
+C:\Users\CHARLES\Documents\Work\Projects\Dev\MyC#Samples\CharlesCSHARPSamples\QuickStarter\obj\Debug\QuickStarter.Properties.Resources.resources
+C:\Users\CHARLES\Documents\Work\Projects\Dev\MyC#Samples\CharlesCSHARPSamples\QuickStarter\obj\Debug\QuickStarter.csproj.GenerateResource.cache
+C:\Users\CHARLES\Documents\Work\Projects\Dev\MyC#Samples\CharlesCSHARPSamples\QuickStarter\obj\Debug\QuickStarter.csproj.CoreCompileInputs.cache
+C:\Users\CHARLES\Documents\Work\Projects\Dev\MyC#Samples\CharlesCSHARPSamples\QuickStarter\obj\Debug\QuickStarter.exe
+C:\Users\CHARLES\Documents\Work\Projects\Dev\MyC#Samples\CharlesCSHARPSamples\QuickStarter\obj\Debug\QuickStarter.pdb
